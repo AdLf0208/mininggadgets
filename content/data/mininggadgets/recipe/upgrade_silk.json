@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "d": "minecraft:golden_apple",
+    "g": "#c:ingots/gold",
+    "s": "#c:slimeballs",
+    "u": "mininggadgets:upgrade_empty"
+  },
+  "pattern": [
+    "sds",
+    "gug",
+    "sss"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mininggadgets:upgrade_silk"
+  }
+}

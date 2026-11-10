@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "d": "minecraft:diamond_block",
+    "e": "minecraft:emerald_block",
+    "g": "minecraft:glass",
+    "l": "minecraft:lapis_block",
+    "u": "mininggadgets:upgrade_range_2"
+  },
+  "pattern": [
+    "lgl",
+    "eud",
+    "lgl"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mininggadgets:upgrade_range_3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "q": "minecraft:quartz",
+    "u": "mininggadgets:upgrade_empty"
+  },
+  "pattern": [
+    "qqq",
+    "quq",
+    "qqq"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mininggadgets:upgrade_battery_1"
+  }
+}
