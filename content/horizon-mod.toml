@@ -1,0 +1,12 @@
+# Port-owned content mod for Mining Gadgets 1.18.8 (MIT,
+# Direwolf20-MC/MiningGadgets): the three gadget tiers and the upgrade cards,
+# with the jar's models, textures, names and recipes. The laser, the FE buffer
+# and the commands are the native half in ports/mininggadgets/mixins.
+id = "mininggadgets"
+name = "Mining Gadgets"
+version = "1.18.8"
+description = "Because mining with lasers is cool"
+authors = ["Direwolf20", "ErrorMikey"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

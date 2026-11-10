@@ -1,0 +1,33 @@
+{
+  "title": "itemGroup.mininggadgets",
+  "icon": "mininggadgets:mininggadget",
+  "items": [
+    "mininggadgets:mininggadget",
+    "mininggadgets:mininggadget_fancy",
+    "mininggadgets:mininggadget_simple",
+    "mininggadgets:upgrade_empty",
+    "mininggadgets:upgrade_silk",
+    "mininggadgets:upgrade_void_junk",
+    "mininggadgets:upgrade_magnet",
+    "mininggadgets:upgrade_size_1",
+    "mininggadgets:upgrade_size_2",
+    "mininggadgets:upgrade_size_3",
+    "mininggadgets:upgrade_light_placer",
+    "mininggadgets:upgrade_freezing",
+    "mininggadgets:upgrade_fortune_1",
+    "mininggadgets:upgrade_fortune_2",
+    "mininggadgets:upgrade_fortune_3",
+    "mininggadgets:upgrade_range_1",
+    "mininggadgets:upgrade_range_2",
+    "mininggadgets:upgrade_range_3",
+    "mininggadgets:upgrade_battery_1",
+    "mininggadgets:upgrade_battery_2",
+    "mininggadgets:upgrade_battery_3",
+    "mininggadgets:upgrade_battery_creative",
+    "mininggadgets:upgrade_efficiency_1",
+    "mininggadgets:upgrade_efficiency_2",
+    "mininggadgets:upgrade_efficiency_3",
+    "mininggadgets:upgrade_efficiency_4",
+    "mininggadgets:upgrade_efficiency_5"
+  ]
+}
